@@ -43,7 +43,7 @@ const Header = () => {
         </nav>
 
         <div className="socials">
-          <a href="#" aria-label="GitHub">
+          <a href="https://github.com/Aidem101/Portfolio" aria-label="GitHub">
             <Github size={20} />
           </a>
         </div>
